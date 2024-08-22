@@ -1,6 +1,8 @@
 
 # Roulette Test
 
+![Imagem da Roleta](./assets/roleta.png)
+
 This is a simple roulette test game created just for fun using Python and Pygame. The roulette rotates and randomly selects a number between 0 and 9. There's also a button to spin the roulette again for repeated play.
 
 ## Features
